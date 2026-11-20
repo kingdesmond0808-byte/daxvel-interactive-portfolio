@@ -51,7 +51,7 @@ document.querySelectorAll(".nav-links a").forEach(link => {
 const changingText = document.getElementById("changing-text");
 
 const roles = [
-    "Aspiring Developer",
+    "Passionate Developer",
     "Technology Enthusiast",
     "Creative Problem Solver",
     "Future Full-Stack Developer"
